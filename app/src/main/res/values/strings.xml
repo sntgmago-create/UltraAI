@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UltraAI</string>
+    <string name="accessibility_service_label">UltraAI Control de Pantalla</string>
+    <string name="accessibility_service_description">Permite a UltraAI ver y controlar la pantalla para automatizar tareas.</string>
+</resources>
