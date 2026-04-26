@@ -1,0 +1,6 @@
+-keep class com.sntgmago.ultraai.gemini.** { *; }
+-keep class com.sntgmago.ultraai.shell.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn okio.**
